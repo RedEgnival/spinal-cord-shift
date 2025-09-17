@@ -84,7 +84,7 @@ Due to privacy, patient CT scans are not included. Organize your dataset as foll
 ```
 data/
 ├── patient_01/
-│   ├── CBCT001.dcm
+│   ├── CT001.dcm
 │   ├── ...
 │   └── RS.dcm        # Ground truth contours
 ├── patient_02/
