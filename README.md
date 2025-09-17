@@ -120,6 +120,3 @@ If you use this repository or its methods, please cite the following works:
 ## Acknowledgments
 
 This project is a collaboration between SVKM’s NMIMS University, Mukesh Patel School of Technology, Management & Engineering, Mumbai, and Nanavati Max Super Speciality Hospital, Mumbai. Special thanks to the clinical experts for providing guidance and validation for model evaluation.
-
-```
-```
