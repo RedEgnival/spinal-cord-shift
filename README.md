@@ -60,7 +60,7 @@ SpinalCord-Shift-Prediction/
 ### 2. Installation  
 Clone the repository:  
 ```bash
-git clone https://github.com/RedEgnival/spinal-cord-shift.git
+git clone https://github.com/Rusheel86/spinal-cord-shift.git
 cd SpinalCord-Shift-Prediction
 ````
 
