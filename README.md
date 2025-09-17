@@ -1,5 +1,6 @@
 
-# Automated Spinal Cord Segmentation and Shift Prediction for Adaptive Radiotherapy Planning
+# Predicting the shifts of spinal cord in Head and Neck cancer patients receiving radiotherapy<img width="3368" height="175" alt="image" src="https://github.com/user-attachments/assets/dd147a46-354e-4979-b6a7-209a5e9160c1" />
+
 
 This repository contains the official code and resources for the study on deep learning–based spinal cord segmentation and positional shift prediction from CBCT scans, designed to enhance adaptive radiotherapy workflows for head and neck cancer patients. The project investigates the integration of U-Net–based segmentation with a CNN–LSTM prediction model to automate and refine spinal cord tracking during treatment.
 
